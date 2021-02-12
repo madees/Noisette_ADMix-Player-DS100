@@ -22,6 +22,10 @@ ADM .BWF Files can be produced by ADmix tools, directly by DAW like Nuendo, or t
 5. Press play in ADMix, dont forget to activate "send" in ADMix GUI OSC container !
 
 ## More to come
+This example shows also how to customize a standard OSC module with a script to parse OSC messages.
+The code should be easy to use as a starting point to build others "dictionnary" of OSC protocols...
+Remember Chataigne is also a realtime script debugger with its logger !
+
 For global support on how to use Chataigne and its modules, or this example project, please join us on Discord : https://discord.com/invite/ngnJ5z 
 
 If you need any help, my contact on Discord is also "madees". Any feedback or ideas on improvements or features are welcome !
