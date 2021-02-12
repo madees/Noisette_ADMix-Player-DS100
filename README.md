@@ -4,9 +4,10 @@ Example file for Chataigne DS100 module, mapping of ADMix Player objects positio
 A simple routing of ADMix Player parameters to DS100.
 The ADM-OSC module is input only, receiving OSC "/track/" x, y, z of sound objects.
 
-ADMixplayer is a free ADM .BWF player, that can playback 64 channels of audio (usually connected to DS100 thru Dante Virtual Soundcard https://www.audinate.com/products/software/dante-virtual-soundcard ) and their encoded objects positions.
+ADMixplayer is a free standalone ADM .BWF player, that can playback 64 channels of audio (usually connected to DS100 thru Dante Virtual Soundcard https://www.audinate.com/products/software/dante-virtual-soundcard ) and their encoded objects positions.
 
-To know more and download ADMix https://forum.ircam.fr/projects/detail/admix/
+ADMix is also a part of MAX MSP Spat5 free package.
+To know more and download standalone ADMix https://forum.ircam.fr/projects/detail/admix/
 
 ## ADM
 is for Audio Definition Model, an open source metadata model that allows the format and content of audio files to be reliably described. 
