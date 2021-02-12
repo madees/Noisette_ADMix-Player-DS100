@@ -20,7 +20,8 @@ ADM .BWF Files can be produced by ADmix tools, directly by DAW like Nuendo, or t
 2. Next, copy files in the same folder
 3. Launch Chataigne, load the .noisette, and check DS100 IP settings
 4. If you have a Warning, first check in ADM-OSC module that in its script container, the file is pointing to your location of ADM-OSC.js file (should do if you have copied it in the same folder as your .noisette).
-5. Press play in ADMix, dont forget to activate "send" in ADMix GUI OSC container !
+5. Prepare your DS100 with En-Scene objects, usually the 10 first channels are statics for the 9.1 bed, #11 to #128 may move. By default, they will be mapped to default module setting of coordinate mapping #1.
+6. Press play in ADMix, dont forget to activate "send" in ADMix GUI OSC container
 
 ## More to come
 This example shows also how to customize a standard OSC module with a script to parse OSC messages.
