@@ -4,15 +4,18 @@ Example file for Chataigne DS100 module, mapping of ADMix Player objects positio
 A simple routing of ADMix Player parameters to DS100.
 The ADM-OSC module is input only, receiving OSC "/track/" x, y, z of sound objects.
 
-ADMixplayer is a free standalone ADM .BWF player, that can playback 64 channels of audio (usually connected to DS100 thru Dante Virtual Soundcard https://www.audinate.com/products/software/dante-virtual-soundcard ) and their encoded objects positions.
+ADMixplayer is a free standalone ADM .BWF player, that can playback 64 channels of audio (usually connected to DS100 thru Dante Virtual Soundcard https://www.audinate.com/products/software/dante-virtual-soundcard ) and their encoded objects positions metadata thru OSC.
 
 ADMix is also a part of Max/MSP Spat.5 free package.
 To know more and download standalone ADMix https://forum.ircam.fr/projects/detail/admix/
 
-## ADM
+To learn more about Chataigne, please visit : http://benjamin6.kuperberg.fr/chataigne/
+This project has been tested with Chataigne v1.7.6
+
+## ADM metadata format
 is for Audio Definition Model, an open source metadata model that allows the format and content of audio files to be reliably described. 
 Among other parameters, it allows to specify locations of sound sources.
-Learn more by reading the ITU standard : https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.2076-2-201910-I!!PDF-E.pdf
+Learn more by reading the ADM ITU BS.2076 standard : https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.2076-2-201910-I!!PDF-E.pdf
 ADM .BWF Files can be produced by ADmix tools, directly by DAW like Nuendo, or tools like Dolby Atmos Production Suite...
 
 ## How to setup
