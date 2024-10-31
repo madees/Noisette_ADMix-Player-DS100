@@ -25,7 +25,11 @@ ADM .BWF Files can be produced by ADmix tools, directly by DAW like Nuendo, or t
 4. Prepare your DS100 with En-Scene objects, usually the 10 first channels are statics for the 9.1 bed, #11 to #128 may move. By default, they will be mapped to default module setting of coordinate mapping #1.
 Here are recommended "virtual" speakers static objetcs positions for Atmos:
 
-![](Static_speaker_positions.JPG)
+![](Static_speaker_positions.JPG).
+
+Or, you may use the ITU little helper in Dashboard to set up the objects 1 to 10 positions :
+
+![](ITU_little_helper.JPG)
 
 5. Don't forget to activate "send" in ADMix GUI OSC container, press play and enjoy !
 
