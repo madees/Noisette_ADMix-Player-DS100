@@ -27,7 +27,7 @@ Here are recommended "virtual" speakers static objetcs positions for Atmos:
 
 ![](Static_speaker_positions.JPG).
 
-Or, you may use the ITU little helper in Dashboard to set up the objects 1 to 10 positions :
+Or, you may use the ITU little helper in Dashboard to set up the objects 1 to 10 positions, center and parameters like radius, FG assignment and routing :
 
 ![](ITU_little_helper.JPG)
 
