@@ -10,7 +10,7 @@ ADMix is also a part of Max/MSP Spat.5 free package.
 To know more and download standalone ADMix https://forum.ircam.fr/projects/detail/admix/
 
 To learn more about Chataigne, please visit : http://benjamin6.kuperberg.fr/chataigne/
-This project has been tested with Chataigne v1.8
+This project has been tested with Chataigne v1.9.24
 
 ## ADM metadata format
 is for Audio Definition Model, an open source metadata model that allows the format and content of audio files to be reliably described. 
