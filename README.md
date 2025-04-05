@@ -25,11 +25,13 @@ ADM .BWF Files can be produced by ADmix tools, directly by DAW like Nuendo, or t
 4. Prepare your DS100 with En-Scene objects, usually the 10 first channels are statics for the 9.1 bed, #11 to #128 may move in space as sound objects. By default, they will be mapped to default module setting of coordinate mapping #1.
 Here are recommended "virtual" speakers static objetcs positions for Atmos Theater ("Shoe box preset" in the Dashboard)
 
-![](Static_speaker_positions.JPG).
+![](Static_speaker_positions.JPG)
 
 You may also use the ITU little helper in Dashboard to set up the "bed" objects 1 to 10 positions on a circle, center and parameters like radius, FG assignment and routing :
 
 ![](ITU_little_helper.JPG)
+
+By default, you'll need 4 Function Groups (aka "FG"): #1 as lower Main for LCR virtual speaker positions, FG #2 for Surrounds, FG #3 for LFE amd FG #4 as upper Main at ceiling.
 
 5. Don't forget to activate "send" in ADMix GUI OSC container, press play and enjoy !
 6. You can remove some objects from mappings that would be replaced by other thirds control live, or modifiy the Multiplex list "Objects outputs patch" if needed to crosspatch (default is straight object N in ADM> object N in DS100)
