@@ -20,7 +20,7 @@ ADM .BWF Files can be produced by ADmix tools, directly by DAW like Nuendo, or t
 
 ## How to setup
 1. First install DS100 OSC module (in Chataigne/Files menu/Community module manager...). You can also download the module folder from https://github.com/madees/dbaudio-DS100-Chataigne-Module/archive/master.zip and manually unzip and copy the DS100 OSC module master folder in your ..Chataigne/modules/ folder).
-2. Next, download file ADMixPlayer_Multiplex.noisette above
+2. Next, download the repository as zip above, and unzip it.
 3. Launch Chataigne, load the .noisette file, and check DS100 IP settings
 4. Prepare your DS100 with En-Scene objects, usually the 10 first channels are statics for the 9.1 bed, #11 to #128 may move in space as sound objects. By default, they will be mapped to default module setting of coordinate mapping #1.
 Here are recommended "virtual" speakers static objetcs positions for Atmos Theater ("Shoe box preset" in the Dashboard)
