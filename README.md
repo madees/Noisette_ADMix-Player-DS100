@@ -23,11 +23,11 @@ ADM .BWF Files can be produced by ADmix tools, directly by DAW like Nuendo, or t
 2. Next, download file ADMixPlayer_Multiplex.noisette above
 3. Launch Chataigne, load the .noisette file, and check DS100 IP settings
 4. Prepare your DS100 with En-Scene objects, usually the 10 first channels are statics for the 9.1 bed, #11 to #128 may move in space as sound objects. By default, they will be mapped to default module setting of coordinate mapping #1.
-Here are recommended "virtual" speakers static objetcs positions for Atmos:
+Here are recommended "virtual" speakers static objetcs positions for Atmos Theater ("Shoe box preset" in the Dashboard)
 
 ![](Static_speaker_positions.JPG).
 
-You may use the ITU little helper in Dashboard to set up the "bed" objects 1 to 10 positions, center and parameters like radius, FG assignment and routing :
+You may also use the ITU little helper in Dashboard to set up the "bed" objects 1 to 10 positions on a circle, center and parameters like radius, FG assignment and routing :
 
 ![](ITU_little_helper.JPG)
 
